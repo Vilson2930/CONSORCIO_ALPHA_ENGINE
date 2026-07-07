@@ -1,1 +1,4 @@
-
+id,tipo,administradora,grupo,valor_carta,prazo_total,parcela_atual,valor_parcela,saldo_devedor,valor_pedido,valor_imovel,valor_revenda,taxa_transferencia,custos_operacionais,prob_contemplacao,custo_oportunidade
+COTA_01,IMOVEL,NAO INFORMADA,0001,300000,180,74,2500,210000,37000,320000,320000,1500,17000,0.75,0.105
+COTA_02,IMOVEL,NAO INFORMADA,0002,500000,200,95,3500,335000,62000,455000,535000,2000,28000,0.75,0.105
+COTA_03,IMOVEL,NAO INFORMADA,0003,250000,180,30,1800,220000,45000,235000,255000,1200,15000,0.45,0.105
